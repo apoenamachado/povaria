@@ -1,0 +1,11 @@
+notes.md
+.vscode
+# pycache
+*__pycache__
+pages/__pycache__/
+core/__pycache__/
+media/
+static/
+users/__pycache__/
+db.sqlite3
+*.pyc
